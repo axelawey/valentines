@@ -307,6 +307,6 @@ body {
         font-size: 1.9rem !important;
         height: 60px !important;
         border-radius: 10px !important;
-        font-weight: bold;
+        font-weight: 200;
     }
 }
