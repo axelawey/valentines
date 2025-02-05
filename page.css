@@ -281,7 +281,7 @@ body {
     }
 
     .greeting {
-        font-size: 1.2rem !important;
+        font-size: 0.9rem !important;
         text-align: left !important;
         color: black;
         font-weight: bold !important;
@@ -307,5 +307,6 @@ body {
         font-size: 1.2rem !important;
         height: 60px !important;
         border-radius: 10px !important;
+        font-weight: bold;
     }
 }
