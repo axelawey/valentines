@@ -48,6 +48,28 @@ body {
     background-color: lightpink;
 }
 
+.music-popup {
+    position: absolute;
+    display: none;
+    background-color: lightpink;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    top: -70px;
+    text-align: center;
+    z-index: 20;
+}
+
+.music-popup a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin: 10px 0;
+}
+
+.popup a:hover {
+    text-decoration: underline;
+}
 
 .auto-type{
     font-family: 'Inter', sans-serif;
@@ -362,14 +384,19 @@ body {
     }
 
     .leftlove-btn {
-        left: 30px;
+        left: 20px;
     }
 
     .rightlove-btn {
-        right: 45px;
+        right: 20px;
     }
 
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
         top: -35px;
+    }
+
+    .music-popup {
+        top: -60px;
+        width: 130px;
     }
 }
