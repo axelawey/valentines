@@ -366,10 +366,10 @@ body {
     }
 
     .rightlove-btn {
-        right: 20px;
+        right: -20px;
     }
 
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
-        top: -40px;
+        top: -35px;
     }
 }
