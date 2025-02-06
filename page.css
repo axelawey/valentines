@@ -396,8 +396,9 @@ body {
     }
 
     .music-popup {
-        width: 90%;
-        top: 40%;
+        width: 130%;
+        top: -60px;
+        margin-left: -15%;
     }
 
     .music-popup a {
