@@ -362,11 +362,11 @@ body {
     }
 
     .leftlove-btn {
-        left: 20px;
+        left: 30px;
     }
 
     .rightlove-btn {
-        right: -20px;
+        right: 30px;
     }
 
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
