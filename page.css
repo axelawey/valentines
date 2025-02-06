@@ -396,7 +396,12 @@ body {
     }
 
     .music-popup {
-        top: -60px;
-        width: 130px;
+        width: 90%;
+        top: 40%;
+    }
+
+    .music-popup a {
+        text-decoration: none;
+        font-weight: bold;
     }
 }
