@@ -397,12 +397,12 @@ body {
 
     .music-popup {
         width: 130%;
-        top: -60px;
+        top: -90px;
         margin-left: -15%;
     }
 
     .music-popup a {
         text-decoration: none;
-        font-weight: bold;
+        font-weight: bolder;
     }
 }
