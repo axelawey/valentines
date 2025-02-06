@@ -358,6 +358,18 @@ body {
     .rightlove-btn .btn {
         font-size: 20px;
         padding: 8px 12px;
-        right:330px;
+        right: 130px;
+    }
+
+    .leftlove-btn {
+        left: 20px;
+    }
+
+    .rightlove-btn {
+        right: 20px;
+    }
+
+    .leftlove-btn, .centerlove-btn, .rightlove-btn {
+        top: 270px;
     }
 }
