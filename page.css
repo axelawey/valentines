@@ -391,6 +391,10 @@ body {
         right: 50px;
     }
 
+    .centerlove-btn {
+        right: 100px;
+    }
+
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
         top: -35px;
     }
