@@ -366,7 +366,7 @@ body {
     }
 
     .rightlove-btn {
-        right: 30px;
+        right: -30px;
     }
 
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
