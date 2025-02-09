@@ -55,7 +55,7 @@ body {
     color: white;
     padding: 20px;
     border-radius: 10px;
-    top: -70px;
+    top: -110px;
     text-align: center;
     z-index: 20;
 }
@@ -69,6 +69,16 @@ body {
 
 .popup a:hover {
     text-decoration: underline;
+}
+
+.platform-logo {
+    width: 45px;
+    height: auto;
+    transition: transform 0.2s ease-in-out;
+}
+
+.platform-logo:hover {
+    transform: scale(1.1);
 }
 
 .auto-type{
@@ -388,11 +398,7 @@ body {
     }
 
     .rightlove-btn {
-        right: 50px;
-    }
-
-    .centerlove-btn {
-        right: 150px;
+        right: 20px;
     }
 
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
@@ -400,13 +406,17 @@ body {
     }
 
     .music-popup {
-        width: 110%;
-        top: -30px;
+        width: 130%;
+        top: -80px;
         margin-left: -10%;
     }
 
     .music-popup a {
         text-decoration: none;
-        font-weight: bolder;
+        font-weight: bold;
+    }
+
+    .platform-logo {
+        width: 40px;
     }
 }
