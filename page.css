@@ -402,7 +402,7 @@ body {
     }
 
     .centerlove-btn {
-        left: 40px;
+        left: -40px;
     } 
 
     .leftlove-btn, .centerlove-btn, .rightlove-btn {
