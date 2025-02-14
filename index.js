@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    alert("Click the card and tap buttons for custom playlists!");
 
     if (window.innerHeight <= 768) {
         $('.love-button').css('height', '70px');
